@@ -28,7 +28,7 @@ A complete two-page project report is included in this repository under the file
 
 This platform is for "educational purposes only". It is intended to raise awareness about phishing techniques and to help organizations train employees in identifying and avoiding phishing attacks.
 
-# Name
+## Name
 Sakshi Patil 
-Cybersecurity Intern  
+ 
 
